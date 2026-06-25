@@ -1,7 +1,7 @@
 <div align="center"> 
   <br />
   <a href="https://novus.hetulmistry.tech">
-    <img src="https://novus.hetulmistry.tech/assets/favicon-DPgcQk1R.svg" width="120" alt="Novus Logo" />
+    <img src="./assets/icon.svg" width="120" alt="Novus Logo" />
   </a>
   <br />
   <br />

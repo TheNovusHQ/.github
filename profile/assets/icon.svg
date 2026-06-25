@@ -1,0 +1,11 @@
+<svg width="250" height="250" viewBox="0 0 250 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="125" cy="125" r="125" fill="black"/>
+<rect x="48" y="151" width="50" height="50" rx="4" fill="#A0ECB1" stroke="#A0ECB1"/>
+<rect x="48" y="99" width="50" height="50" rx="4" fill="#F7CB44" stroke="#F7CB44"/>
+<rect x="48" y="47" width="50" height="50" rx="4" fill="#F095E3" stroke="#F095E3"/>
+<path d="M101 50.4404V94C101 95.6569 102.343 97 104 97H145.946C148.592 97 149.942 93.8247 148.107 91.9191L106.161 48.3595C104.288 46.4145 101 47.7403 101 50.4404Z" fill="#9DC4F8" stroke="#9DC4F8"/>
+<path d="M146 99H104C102.343 99 101 100.329 101 101.986V149C101 151.386 131.363 186.033 143.791 200.115C145.617 202.183 149 200.868 149 198.109V102C149 100.343 147.657 99 146 99Z" fill="#F0A9A7" stroke="#F0A9A7"/>
+<rect x="152" y="151" width="50" height="50" rx="4" fill="#F095E3" stroke="#F095E3"/>
+<rect x="152" y="99" width="50" height="50" rx="4" fill="#A0ECB1" stroke="#A0ECB1"/>
+<rect x="152" y="47" width="50" height="50" rx="4" fill="#F7CB44" stroke="#F7CB44"/>
+</svg>
